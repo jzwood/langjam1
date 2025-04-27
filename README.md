@@ -37,18 +37,8 @@ transpiler for your language. Compilers can take decades to write so nobody is
 expecting the next python -- even getting even a single contrived program to run
 is a huge accomplishment.
 
-### week 3
+### Week 3
 
-The point of the jam is to share cool ideas so "judging" will be a group effort.
-Jam organizers will share a spreadsheet in the #language-makers channel where
-anybody (even non-jam participants) can read the design docs and score them,
-e.g.
-
-|               | reviewer 1 | reviewer 2 | ... |
-| ------------- | ---------- | ---------- | --- |
-| **Cool Lang** |            |            |     |
-| creativity    | (1-3)      | (1-3)      | ... |
-| uniqueness    | (1-3)      | (1-3)      | ... |
-| **Fun Lang**  |            |            |     |
-| creativity    | (1-3)      | (1-3)      | ... |
-| uniqueness    | (1-3)      | (1-3)      | ... |
+Relax and peruse your fellow language creator's languages while the judges
+evaluate the submissions. At the end of the week we'll have a video call where
+we'll announce the winning language and the prize!
