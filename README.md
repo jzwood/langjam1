@@ -30,6 +30,8 @@ Submit a link to your design doc in #language-makers and tag your organizers
 `@Jake` and `@Jason Steving`. We accept any reasonable format including github
 READMEs and google docs.
 
+To set yourself up for success please also think about how long implementation will take and include a week #2 roadmap.
+
 ### Week 2: implementation
 
 In week #2 take a swing at implementing a runtime, interpreter, compiler, or
