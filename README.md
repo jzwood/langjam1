@@ -39,7 +39,7 @@ transpiler for your language. Compilers can take decades to write so nobody is
 expecting the next python -- even getting even a single contrived program to run
 is a huge accomplishment.
 
-### Week 3
+### Week 3: judging, demos, and awards ceremony
 
 Relax and peruse your fellow language creator's languages while the judges
 evaluate the submissions. At the end of the week we'll have a video call where
