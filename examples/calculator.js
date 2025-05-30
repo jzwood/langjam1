@@ -45,5 +45,25 @@ function interpreter(expr) {
   }
 }
 
+/*
+ * TRANSPILER
+ * Outputs AST to javascript
+ */
+function transpiler(expr) {
+  switch (expr.type) {
+    case "OP": {
+      switch (expr.name) {
+        case "ADD":
+          return `(${transpiler(expr.left)} + ${transpiler(expr.right)})`;
+        case "MULT":
+          return `(${transpiler(expr.left)} * ${transpiler(expr.right)})`;
+      }
+    }
+    case "INT":
+      return expr.value.toString();
+  }
+}
+
 // TESTS
-console.assert(18 == interpreter(MATH_EXPRESSION)); // (4 + (2 * 7))
+console.assert(18 === interpreter(MATH_EXPRESSION));
+console.assert("(4 + (2 * 7))" === transpiler(MATH_EXPRESSION));
