@@ -12,11 +12,18 @@ opportunity to hack on a programming language.
 
 ## THEME
 
-_The Theme will be announced on Monday, June 2_
+<s>_The Theme will be announced on Monday, June 2_</s>
+
+The theme is
+
+### The end is not the end
+
+Does `end` refer to syntax, to program execution, developer experience, or
+something else? You decide! Be as literal or figurative as you want.
 
 ## SCHEDULE
 
-### Week 1 (June 2 - June 9): design doc
+### Week 1 (Monday, June 2 - Monday, June 9): design doc
 
 Week #1 is primarily for thinking deeply and writing ideas down. This could
 include
@@ -30,7 +37,7 @@ Submit a link to your design doc in #language-makers and tag your organizers
 `@Jake` and `@Jason Steving`. We accept any reasonable format including github
 READMEs and google docs. Please explain how your PL connects to the jam's theme.
 
-### Week 2 (June 9 - June 16): implementation
+### Week 2 (Monday, June 9 - Monday, June 16): implementation
 
 In week #2 take a swing at implementing a runtime, interpreter, compiler, or
 transpiler for your language. Compilers can take decades to write so nobody is
