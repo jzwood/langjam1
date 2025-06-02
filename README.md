@@ -33,9 +33,11 @@ include
 - novel features
 - example syntax
 
-Submit a link to your design doc in #language-makers and tag your organizers
-`@Jake` and `@Jason Steving`. We accept any reasonable format including github
-READMEs and google docs. Please explain how your PL connects to the jam's theme.
+it must include an explanation of how your PL connects to the jam theme.
+
+Please add a link to your design doc in the jam
+[spreadsheet](https://docs.google.com/spreadsheets/d/1hMbn1yasJq2BBzXpGA2jyMc5fLPXVuCExAvhTmsQIE0/edit?usp=sharing).
+We accept any reasonable format including github READMEs and google docs.
 
 ### Week 2 (Monday, June 9 - Monday, June 16): implementation
 
