@@ -62,3 +62,10 @@ While the judges deliberate we encourage everyone to explore all the submissions
 -- no prize is better than having people try your language! At the end of the
 week we'll have a video call where we'll announce the winning language and
 prizes!
+
+### Winners
+
+- 🥇 [Colourful](https://github.com/AR2202/Colourful)
+  - an esoteric programming language based on combinatory logic
+- 🥈 [Kats](https://github.com/hoosierEE/langjam1)
+  - a stack-based language with arrays and lambdas
