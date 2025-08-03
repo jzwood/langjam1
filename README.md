@@ -65,7 +65,7 @@ prizes!
 
 ### Winners
 
-1. 🥇 [Colourful](https://github.com/AR2202/Colourful)
+- 🥇 [Colourful](https://github.com/AR2202/Colourful)
   - an esoteric programming language based on combinatory logic
-1. 🥈 [Kats](https://github.com/hoosierEE/langjam1)
+- 🥈 [Kats](https://github.com/hoosierEE/langjam1)
   - a stack-based language with arrays and lambdas
