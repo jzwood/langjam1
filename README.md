@@ -69,3 +69,10 @@ prizes!
   - an esoteric programming language based on combinatory logic
 - 🥈 [Kats](https://github.com/hoosierEE/langjam1)
   - a stack-based language with arrays and lambdas
+
+### Exhibition
+
+- 🧠 [Natty](https://github.com/JasonSteving99/Natty/)
+  - LLM-powered natural language PL
+- 🟨 [Yellow Cake](https://github.com/jzwood/yellow-cake)
+  - primitive stack language that needs fuel to run
